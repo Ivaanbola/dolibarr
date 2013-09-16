@@ -1,0 +1,22 @@
+# Dolibarr language file - en_US - trips
+CHARSET=UTF-8
+Trip=Viaggio
+Trips=Viaggi
+TripsAndExpenses=Viaggi e spese
+TripsAndExpensesStatistics=Statistiche viaggi e spese
+TripCard=Scheda viaggio
+AddTrip=Aggiungi viaggio
+ListOfTrips=Elenco dei viaggi
+ListOfFees=Elenco delle tariffe
+NewTrip=Nuovo viaggio
+CompanyVisited=Società/Fondazione visitata
+Kilometers=Kilometri
+FeesKilometersOrAmout=Tariffa kilometrica o importo
+DeleteTrip=Elimina viaggio
+ConfirmDeleteTrip=Sei sicuro di voler eliminare questo viaggio?
+TF_OTHER=Altro
+TF_LUNCH=Pranzo
+TF_TRIP=Viaggio
+ListTripsAndExpenses=Elenco dei viaggi e delle spese
+ExpensesArea=Area viaggi e spese
+SearchATripAndExpense=Cerca viaggi e spese
